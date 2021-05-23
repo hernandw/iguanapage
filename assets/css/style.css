@@ -1,0 +1,17 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+    background-color: brown;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer {
+    background-color: #1E1A13;
+    opacity: 0.94;
+    color: #fff;
+    font: normal normal 300 20px/24px Raleway;
+}
